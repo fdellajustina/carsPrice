@@ -8,5 +8,5 @@ In the notebooks we analyse and train the model that will be used in the Flask A
 
 and the predicton will be made using this data:
 
-% image
+![alt text](https://github.com/fdellajustina/carsPrice/blob/main/images/predict_screen.png)
 
