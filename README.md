@@ -4,7 +4,7 @@ We used a modified version of a dataset MPG Cars: https://archive.ics.uci.edu/ml
 
 In the notebooks we analyse and train the model that will be used in the Flask API. The home screen of the aplication will be like this:
 
-% image here
+https://github.com/fdellajustina/carsPrice/blob/main/images/home_screen.png
 
 and the predicton will be made using this data:
 
